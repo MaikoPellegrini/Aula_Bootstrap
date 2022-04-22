@@ -1,3 +1,5 @@
 https://htmlcolorcodes.com/
 https://www.pexels.com/pt-br/
 https://getbootstrap.com/
+https://jqueryui.com/spinner/
+https://www.w3schools.com/css/css_howto.asp
